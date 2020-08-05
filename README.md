@@ -19,8 +19,13 @@ Jan Brunnenkant
 
 # Lizenz
 Copyright 2020, Fastnachtsmuseum Narrenschopf Bad Dürrheim 
+VR-Gaze-Menuie ist Freie Software: Sie können es unter den Bedingungen
+der GNU General Public License, wie von der Free Software Foundation,
+Version 3 der Lizenz oder (nach Ihrer Wahl) jeder neueren
+veröffentlichten Version, weiter verteilen und/oder modifizieren.
+[Näheres siehe in der LICENSE-Datei.] (../blob/master/LICENSE)
 
-verwendete Programmteile Dritter:
+Verwendete Programmteile Dritter:
 "VR Gaze Control Script" Lizenz: Copyright 2017, Jimmy Gao
 https://assetstore.unity.com/packages/tools/vr-gaze-control-script-97090
 
