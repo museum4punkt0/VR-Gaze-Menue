@@ -19,7 +19,8 @@ Jan Brunnenkant
 
 # Lizenz
 Copyright 2020, Fastnachtsmuseum Narrenschopf Bad Dürrheim 
-VR-Gaze-Menuie ist Freie Software: Sie können es unter den Bedingungen
+
+VR-Gaze-Menue ist Freie Software: Sie können es unter den Bedingungen
 der GNU General Public License, wie von der Free Software Foundation,
 Version 3 der Lizenz oder (nach Ihrer Wahl) jeder neueren
 veröffentlichten Version, weiter verteilen und/oder modifizieren.
