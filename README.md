@@ -5,7 +5,14 @@ Das VR-Gaze-Menue ist im Rahmen des Projekts museum4punkt0 entstanden und wurde 
 Diese VR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt Kulturgut Fastnacht digital. Das Projekt wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
 
 # Installation
-Das VR-Gaze-Menue wurde mit Unity 3D erstellt. Um die Anwendung zu bearbeiten kann der Ihalt des Ordners in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden. Das Asset "Oculus Integration" (https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) muss ebenfalls importiert werden. 
+Das VR-Gaze-Menue wurde mit Unity 3D erstellt. Um die Anwendung zu bearbeiten kann der Inhalt der über die folgenden Links zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden. 
+
+* http://download.virtuelles-fastnachtsmuseum.de/VR-Gaze-Menu/tutorial.unitypackage
+* http://download.virtuelles-fastnachtsmuseum.de/VR-Gaze-Menu/Kuppel_1.unitypackage
+* http://download.virtuelles-fastnachtsmuseum.de/VR-Gaze-Menu/Kuppel_2.unitypackage
+* http://download.virtuelles-fastnachtsmuseum.de/VR-Gaze-Menu/Kuppel_3.unitypackage
+
+Das Asset "Oculus Integration" (https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) muss ebenfalls importiert werden. 
 Für die Anwendung wurden Teile des Assets "vr-gaze-control-script" (https://assetstore.unity.com/packages/tools/vr-gaze-control-script-97090) verwendet. Zur vollen Funktionsfähigkeit, muss das Plugin aus dem Asset-store erworben werden. 
 
 # Benutzung
