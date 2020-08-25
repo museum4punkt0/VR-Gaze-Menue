@@ -28,14 +28,14 @@ Universal Windows Plattform: Windows 10 und Grafikkarte mit DX10 (shader model 4
 
 * Entwicklung und Inbetriebnahme wurde getestet auf:
 
-Android SDK, JDK und NDK mit Unity 2019.2.16f1
-Mainboard Asus X99A Gaming Carbon
-CPU i7-6900K
-Arbeitsspeicher 64GB DDR4
-Grafikkarte GeForce GTX 1080 Ti Xtreme
-SSD Festplatte für System und Arbeit MZ-75E1T0B/EU 850 EVO 1TB 
-HDD für Datenspeicherung WD20EZRZ 2TB 
-PC Netzteil Power Zone 1000W
+Android SDK, JDK und NDK mit Unity 2019.2.16f1<br/>
+Mainboard Asus X99A Gaming Carbon<br/>
+CPU i7-6900K<br/>
+Arbeitsspeicher 64GB DDR4<br/>
+Grafikkarte GeForce GTX 1080 Ti Xtreme<br/>
+SSD Festplatte für System und Arbeit MZ-75E1T0B/EU 850 EVO 1TB<br/>
+HDD für Datenspeicherung WD20EZRZ 2TB<br/>
+PC Netzteil Power Zone 1000W<br/>
 
 
 Um die Anwendung zu bearbeiten kann der Inhalt, der über die folgenden Links zum Download bereit steht, in ein neues Projekt gezogen werden oder die .unitypackages-Dateien in ein Unity-Projekt importiert werden. 
