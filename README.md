@@ -7,8 +7,8 @@ Diese VR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 - Digitale Str
 # Installation
 Das VR-Gaze-Menue wurde mit Unity 3D (Version 2019.2.16f1) erstellt. 
 
-## Minimale Systemvoraussetzungen für die Entwicklung (Quelle: https://docs.unity3d.com/2019.2/Documentation/Manual/system-requirements.html )
-
+### Minimale Systemvoraussetzungen für die Entwicklung<br/>
+(Quelle: https://docs.unity3d.com/2019.2/Documentation/Manual/system-requirements.html )<br/>
 Betriebssystem:	Windows 7 SP1+, 8, 10, ausschließlich 64-bit; macOS 10.12+; Linux: Ubuntu 16.04, 18.04 and CentOS 7<br/>
 CPU:	SSE2 instruction set support<br/>
 GPU:	Grafikkarte mit DX10 (shader model 4.0)<br/>
@@ -16,7 +16,8 @@ iOS: Mac computer minimum macOS 10.12.6 und Xcode 9.4 oder höher<br/>
 Android:	Android SDK und Java Development Kit (JDK); IL2CPP scripting backend benötigt Android NDK<br/>
 Universal Windows Plattform: Windows 10 (64-bit), Visual Studio 2015 mit C++ Tools component und Windows 10 SDK<br/>
 
-## Minimale Systemvoraussetzungen für die Inbetriebnahme (Quelle: https://docs.unity3d.com/2019.2/Documentation/Manual/system-requirements.html )
+### Minimale Systemvoraussetzungen für die Inbetriebnahme<br/>
+(Quelle: https://docs.unity3d.com/2019.2/Documentation/Manual/system-requirements.html )<br/>
 Betriebssystem: Windows 7 SP1+; macOS 10.12+; Ubuntu 16.04+<br/>
 CPU:	SSE2 instruction set support<br/>
 GPU:	Grafikkarte mit DX10 (shader model 4.0)<br/>
