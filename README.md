@@ -45,8 +45,10 @@ Um die Anwendung zu bearbeiten kann der Inhalt, der über die folgenden Links zu
 * http://download.virtuelles-fastnachtsmuseum.de/VR-Gaze-Menu/Kuppel_2.unitypackage
 * http://download.virtuelles-fastnachtsmuseum.de/VR-Gaze-Menu/Kuppel_3.unitypackage
 
-Das Asset "Oculus Integration" (https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) muss ebenfalls importiert werden. 
-Für die Anwendung wurden Teile des Assets "vr-gaze-control-script" (https://assetstore.unity.com/packages/tools/vr-gaze-control-script-97090) verwendet. Zur vollen Funktionsfähigkeit, muss das Plugin aus dem Asset-store erworben werden. 
+
+* Folgende Unity-Assets sind notwendig:</br>
+Das Asset "Oculus Integration" (https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) muss ebenfalls importiert werden. </br>
+Für die Anwendung wurden Teile des Assets "vr-gaze-control-script" (https://assetstore.unity.com/packages/tools/vr-gaze-control-script-97090) verwendet. Zur vollen Funktionsfähigkeit, muss das Plugin aus dem Asset-Store erworben werden. 
 
 # Benutzung
 Zur Benutzung des VR-Gaze-Menu ist eine Anleitung unter folgendem Link zu finden: 
