@@ -1,7 +1,7 @@
 # VR-Gaze-Menue
 
 # Kurzbeschreibung
-Das VR-Gaze-Menue ist im Rahmen des Projekts museum4punkt0 entstanden und wurde aufgrund der betreuungslosen VR-Stationen im Museum Narrenschopf in Bad Dürrheim entwickelt. Mit dem Menü wird den Besuchern eine vereinfachte Möglichkeit geboten, VR-Inhalte selbstständig und ohne zusätzliches Betreuungspersonal aufzurufen.
+Das VR-Gaze-Menue ist im Rahmen des Projekts museum4punkt0 entstanden und wurde für VR-Stationen im Museum Narrenschopf in Bad Dürrheim mit dem Ziel entwickelt, den Betrieb auch ohne Betreuung zu ermöglichen. Mit dem Menü wird den Besuchern eine vereinfachte Möglichkeit geboten, VR-Inhalte selbstständig und ohne zusätzliches Betreuungspersonal aufzurufen.
 Diese VR-Anwendung ist entstanden im Verbundprojekt museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt Kulturgut Fastnacht digital. Das Projekt wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
 
 # Installation
